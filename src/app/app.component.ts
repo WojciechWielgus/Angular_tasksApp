@@ -14,17 +14,17 @@ export class AppComponent {
   tasks: Task[] = [
     {
       name: 'Silownia',
-      deadline: '2020-01-02',
+      deadline: '2020-09-06',
       done: false,
     },
     {
-      name: 'Nauka Angulara',
-      deadline: '2020-01-03',
+      name: 'Zrobić zakupy',
+      deadline: '2020-09-07',
       done: true,
     },
     {
-      name: 'Sprzątanie kuwety',
-      deadline: '2020-01-04',
+      name: 'Wykonać zakupy',
+      deadline: '2020-09-04',
       done: false,
     },
   ];
