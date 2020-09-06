@@ -1,6 +1,6 @@
 # TodoList
 
-![main_image](README_img/img02.PNG?raw=true)
+![main_image](README_img/img02.png?raw=true)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
