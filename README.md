@@ -1,6 +1,6 @@
 # TodoList
 
-![alt text](https://github.com/WojciechWielgus/Angular_tasksApp/issues/1#issue-694490549?raw=true)
+![alt text](README_img/img01.PNG?raw=true)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
